@@ -18,6 +18,13 @@ const Cardcover = () => {
         onButtonClick1={handleButtonClick1}
         onButtonClick2={handleButtonClick2}
       />
+      <Card
+        image="https://via.placeholder.com/400x250"
+        title="Age calculator Card"
+        onButtonClick1={handleButtonClick1}
+        onButtonClick2={handleButtonClick2}
+      />
+      
     </div>
   );
 };
